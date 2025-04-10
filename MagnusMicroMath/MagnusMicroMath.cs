@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MagnusMicroMath
 {
-    public class MagnusMicroMath
+    public class MagnusMicroMath //Magnus' Math Class
     {
         /// <summary>
         /// Method for adding two integers together
